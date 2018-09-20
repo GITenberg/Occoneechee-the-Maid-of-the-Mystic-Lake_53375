@@ -1,5 +1,8 @@
 _repo: Occoneechee-the-Maid-of-the-Mystic-Lake_53375
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53375-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Jarrett, Robert Frank
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47348'
     url: http://www.gutenberg.org/2009/agents/47348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53375#Occoneechee-the-Maid-of-the-Mystic-Lake
 gutenberg_bookshelf:
 - Folklore
 - Poetry
